@@ -1,6 +1,16 @@
-# DEVELOPMENT RULES
+# DEVELOPMENT RULES — PONT CAFE
 
-Read documentation before coding.
-Plan changes.
-Keep code clean.
-Test important flows.
+Workflow:
+
+Before every feature:
+1. Understand requirement.
+2. Check architecture.
+3. Plan implementation.
+4. Build.
+5. Test.
+
+Rules:
+- No fake functionality.
+- No unfinished placeholders.
+- No unnecessary packages.
+- Keep code readable.

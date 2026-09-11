@@ -1,20 +1,48 @@
-# PONT CAFE PROJECT SPEC
+# PROJECT SPECIFICATION — PONT CAFE
 
-QR digital menu.
+Product:
+PONT CAFE is a QR based digital menu.
 
-Stack:
-Laravel + PHP 8.3 + MySQL + Blade + Tailwind
+Purpose:
+Customers scan a QR code and quickly view cafe and restaurant menus.
 
-Customer:
-- Cafe / Restaurant selection
-- Categories
-- Products
-- Languages
+Technology:
+- Laravel
+- PHP 8.3+
+- MySQL/MariaDB
+- Blade
+- Tailwind CSS
+- Vite
+
+Customer flow:
+
+Home:
+Logo
+Language switch
+Two choices:
+1. Cafe
+2. Restaurant
 
 Cafe:
-Hot Bar, Cold Bar, Dessert
+- Hot Bar
+- Cold Bar
+- Dessert
 
 Restaurant:
-Breakfast, Lunch, Dinner
+- Breakfast
+- Lunch
+- Dinner
 
-No ordering, cart, payment or customer accounts.
+Product card:
+- One image
+- Product name
+- Price
+- Availability status when needed
+
+Not included:
+- Online ordering
+- Cart
+- Payment
+- Delivery
+- Customer accounts
+- Reviews

@@ -1,7 +1,33 @@
-# DESIGN SYSTEM
+# DESIGN SYSTEM — PONT CAFE
 
-Brand color: #23336E
-Font: IranYekan
+Brand:
 
-Use consistent spacing and typography.
-Avoid oversized UI.
+Primary color:
+#23336E
+
+Typography:
+IranYekan for Persian and Arabic.
+
+Design goals:
+- Premium cafe feeling
+- Modern
+- Minimal
+- Elegant
+- Fast
+
+Typography rules:
+- Avoid oversized text.
+- Use clear hierarchy.
+- Keep consistent font sizes.
+
+Spacing:
+Use a consistent spacing system.
+Do not create random margins.
+
+Components:
+All repeated UI must use reusable components.
+
+Avoid:
+- Random colors
+- Random shadows
+- Different styles on different pages
