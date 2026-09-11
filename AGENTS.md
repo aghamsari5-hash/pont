@@ -16,3 +16,17 @@ Development principles:
 - Avoid unnecessary dependencies.
 - Prefer maintainable Laravel solutions.
 - Respect the approved design system.
+- Read all project documentation.
+
+Do not write code yet.
+
+Analyze:
+1. Project architecture
+2. Laravel structure
+3. Database design
+4. UI/UX system
+5. Development roadmap
+
+Confirm that you understand the PONT CAFE project.
+
+Then provide only the implementation plan for Phase 1.
